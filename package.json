@@ -1,0 +1,20 @@
+{
+  "name": "neversitup-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yacthMon/neversitup-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yacthMon/neversitup-test/issues"
+  },
+  "homepage": "https://github.com/yacthMon/neversitup-test#readme"
+}

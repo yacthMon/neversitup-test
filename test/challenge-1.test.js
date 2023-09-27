@@ -1,4 +1,4 @@
-const permutingString = require("./challenge-1").permutingString;
+const permutingString = require("../src/challenge-1").permutingString;
 
 describe("Permutations String", () => {
   const testExpectation = [

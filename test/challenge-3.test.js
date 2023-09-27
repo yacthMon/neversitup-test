@@ -1,4 +1,4 @@
-const countSmileys = require("./challenge-3").countSmileys;
+const countSmileys = require("../src/challenge-3").countSmileys;
 
 describe("Count Smile", () => {
   const testExpectation = [

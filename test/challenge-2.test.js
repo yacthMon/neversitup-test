@@ -1,4 +1,4 @@
-const countOddInt = require("./challenge-2").countOddInt;
+const countOddInt = require("../src/challenge-2").countOddInt;
 
 describe("Count odd number", () => {
   const testExpectation = [

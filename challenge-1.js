@@ -17,8 +17,4 @@ const permutingString = (input) => {
   return Array.from(result);
 };
 
-const test = ["a", "ab", "abc", "aabb"];
-test.forEach((input) => {
-  console.log(`Input : ${input}`);
-  console.log(`Result: `, permutingString(input));
-});
+module.exports = { permutingString };

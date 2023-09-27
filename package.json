@@ -4,7 +4,7 @@
   "description": "",
   "main": "challenge-1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yacthMon/neversitup-test/issues"
   },
-  "homepage": "https://github.com/yacthMon/neversitup-test#readme"
+  "homepage": "https://github.com/yacthMon/neversitup-test#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
